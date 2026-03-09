@@ -10,7 +10,7 @@ import type { ContentType, ParsedContent, ValidationResult } from "./types";
  * Regular expressions for validating WhatsApp IDs
  */
 const CHAT_ID_REGEX = /^[0-9]+@[cg]\.us$/;
-const CHAT_ID_REGEX_LID = /^[0-9]+@[lid]$/;
+const CHAT_ID_REGEX_LID = /^[0-9]+@lid$/;
 const CONTACT_ID_REGEX = /^[0-9]+@c\.us$/;
 const GROUP_ID_REGEX = /^[0-9]+-[0-9]+@g\.us$/;
 const PHONE_NUMBER_REGEX = /^[0-9]{7,15}$/;
