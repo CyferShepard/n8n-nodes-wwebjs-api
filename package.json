@@ -1,6 +1,6 @@
 {
   "name": "@cyfershepard/n8n-nodes-wwebjs-api",
-  "version": "1.2.4.1",
+  "version": "1.2.5",
   "description": "WhatsApp Web API node for n8n — send messages, manage chats, groups & contacts via WWebJS REST API (whatsapp-web.js) - fork by CyferShepard",
   "keywords": [
     "n8n-community-node-package",
