@@ -31,13 +31,13 @@
     "email": "info@ingenierosweb.co",
     "url": "https://github.com/vgpastor"
   },
-  "homepage": "https://github.com/vgpastor/n8n-nodes-wwebjs-api",
+  "homepage": "https://github.com/CyferShepard/n8n-nodes-wwebjs-api",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vgpastor/n8n-nodes-wwebjs-api.git"
+    "url": "git+https://github.com/CyferShepard/n8n-nodes-wwebjs-api.git"
   },
   "bugs": {
-    "url": "https://github.com/vgpastor/n8n-nodes-wwebjs-api/issues"
+    "url": "https://github.com/CyferShepard/n8n-nodes-wwebjs-api/issues"
   },
   "main": "dist/nodes/WWebJsApi/WWebJsApi.node.js",
   "scripts": {
